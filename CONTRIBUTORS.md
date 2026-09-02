@@ -6,5 +6,5 @@ Add your profile below to become an official contributor!
 | :--- | :--- | :--- |
 | **AstraCode Admin** | [@ASTRACODE-Kenya](https://github.com/ASTRACODE-Kenya) | Architecture |
 <!-- Add your row below this line -->
-| Terry Anne Wanjiru Mureithi | Tawmie02 | Solana |
+| Terry Anne Wanjiru Mureithi | [@Tawmie02](https://github.com) | Solana |
 | Kallen Mugambi | [@Kallendev](https://github.com/Kallendev) | Newbie-None |
