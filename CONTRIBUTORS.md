@@ -8,3 +8,4 @@ Add your profile below to become an official contributor!
 | <!-- Add your row below this line --> | | |
 | Terry Anne Wanjiru Mureithi | [@Tawmie02](https://github.com/Tawmie02) | Solana |
 | Kallen Mugambi | [@Kallendev](https://github.com/Kallendev) | Newbie-None |
+Wangui Margaret|[@margret255](https://github.com/margret255)
