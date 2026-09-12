@@ -12,5 +12,4 @@ Add your profile below to become an official contributor!
 | Wangui Margaret             | [@margret255](https://github.com/margret255)           |                    |
 | Denis Oluoch                | [@DenisOluoch](https://github.com/DenisOluoch)         |                    |
 | Blessings Wanjiku           | [@Nosh-thee-techy](https://github.com/Nosh-thee-techy) | Bitcoin and Ethereum |
-
-
+| Esther Oyoo                 | [@aah3sta](https://github.com/aah3sta)                 |                    |
